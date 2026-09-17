@@ -31,7 +31,7 @@ It can respond to basic questions, provide date and time, perform basic calculat
 
 Rule-Based-AI-Chatbot/
 │
-├── Chatbot.py
+├── chatbot.py
 └── README.md
 
 «"learned_responses.json" is created automatically when the chatbot learns a new response. It is stored locally.»
@@ -40,7 +40,7 @@ Rule-Based-AI-Chatbot/
 
 Make sure Python is installed on your system.
 
-python Chatbot.py
+python chatbot.py
 
 💬 Example
 
